@@ -28,7 +28,7 @@ public class Main {
         sinopse = """
 Filme de aventura com ator famoso dos anos 80.
 Top Gun retrata a vida do Capitão da Marinha norte-americana que tem como objetivo treinar jovens pilotos para uma missão que é mortal e envolve muito sacrifício, trabalho em equipe e resiliência.
-Nota do Filme:  """ + notaDoFilme
+Nota do Filme: """ + notaDoFilme
                 ;
 
         System.out.println(sinopse);
