@@ -1,7 +1,7 @@
 <h1>Catálogo de Filmes</h1>
 
 <h2>Sobre:</h2>
-<p>Projeto feito com o curso "Java: criando a sua primeira aplicação"</p>
+<p>Projeto feito com o curso "Java: criando a sua primeira aplicação"</p>.
 <p>O curso está na formação sobre Orientação a Objetos em Java na plataforma da Alura.</p>
 
 ## Tecnologias
