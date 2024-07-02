@@ -34,6 +34,7 @@ Nota do Filme:  """ + notaDoFilme
         System.out.println(sinopse);
 
         int classificacao;
+        
         classificacao = (int) (media / 2);
         System.out.println("Classificação: " + classificacao + " estrelas");
 
